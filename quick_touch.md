@@ -1,3 +1,3 @@
 # 初次接触
 
-[](./nodejs_concepts.jpg)
+![image](https://github.com/sandyzidane/nodejs_note/blob/master/nodejs_concepts.jpg)
